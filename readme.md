@@ -1,7 +1,5 @@
 # Anotações curso FullStack
 
-## HTML
-nfkdsjfk
+## [- HTML](https://github.com/LuaGeo/fsjr_atividade2/blob/master/html.md)
 
-## CSS
-
+## [- CSS](https://github.com/LuaGeo/fsjr_atividade2/blob/master/css.md)
