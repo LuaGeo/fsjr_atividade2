@@ -12,7 +12,7 @@ facilitando a sua leitura e semântica.
       </body>
     </html>
 
-## 1.2. Dentro do body pode conter estruturas semânticas:
+### 1.2. Dentro do body pode conter estruturas semânticas:
 
     <body>
         <header></header>
@@ -20,7 +20,7 @@ facilitando a sua leitura e semântica.
         <footer><footer>
     </body>
 
-## 1.3. Dentro do main pode conter seções com mais estruturas semânticas como:
+### 1.3. Dentro do main pode conter seções com mais estruturas semânticas como:
 
     <main>
         <section>
